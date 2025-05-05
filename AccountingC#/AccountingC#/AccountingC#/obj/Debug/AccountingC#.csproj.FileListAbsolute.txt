@@ -1,0 +1,7 @@
+C:\Users\conca\OneDrive\Desktop\AccountingC#\AccountingC#\AccountingC#\bin\Debug\AccountingC#.exe.config
+C:\Users\conca\OneDrive\Desktop\AccountingC#\AccountingC#\AccountingC#\bin\Debug\AccountingC#.exe
+C:\Users\conca\OneDrive\Desktop\AccountingC#\AccountingC#\AccountingC#\bin\Debug\AccountingC#.pdb
+C:\Users\conca\OneDrive\Desktop\AccountingC#\AccountingC#\AccountingC#\obj\Debug\AccountingC#.csproj.AssemblyReference.cache
+C:\Users\conca\OneDrive\Desktop\AccountingC#\AccountingC#\AccountingC#\obj\Debug\AccountingC#.csproj.CoreCompileInputs.cache
+C:\Users\conca\OneDrive\Desktop\AccountingC#\AccountingC#\AccountingC#\obj\Debug\AccountingC#.exe
+C:\Users\conca\OneDrive\Desktop\AccountingC#\AccountingC#\AccountingC#\obj\Debug\AccountingC#.pdb
