@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp\ConsoleApp\ConsoleApp\bin\Debug\ConsoleApp.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConsoleApp\ConsoleApp\ConsoleApp\obj\Debug\ConsoleApp.pdb
