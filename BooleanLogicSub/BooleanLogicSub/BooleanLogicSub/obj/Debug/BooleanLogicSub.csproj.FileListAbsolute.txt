@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogicSub\BooleanLogicSub\BooleanLogicSub\bin\Debug\BooleanLogicSub.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogicSub\BooleanLogicSub\BooleanLogicSub\bin\Debug\BooleanLogicSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogicSub\BooleanLogicSub\BooleanLogicSub\bin\Debug\BooleanLogicSub.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogicSub\BooleanLogicSub\BooleanLogicSub\obj\Debug\BooleanLogicSub.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogicSub\BooleanLogicSub\BooleanLogicSub\obj\Debug\BooleanLogicSub.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogicSub\BooleanLogicSub\BooleanLogicSub\obj\Debug\BooleanLogicSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\BooleanLogicSub\BooleanLogicSub\BooleanLogicSub\obj\Debug\BooleanLogicSub.pdb
