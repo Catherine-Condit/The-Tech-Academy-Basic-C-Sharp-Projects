@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\numberGuessing\numberGuessing\numberGuessing\bin\Debug\numberGuessing.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\numberGuessing\numberGuessing\numberGuessing\bin\Debug\numberGuessing.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\numberGuessing\numberGuessing\numberGuessing\bin\Debug\numberGuessing.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\numberGuessing\numberGuessing\numberGuessing\obj\Debug\numberGuessing.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\numberGuessing\numberGuessing\numberGuessing\obj\Debug\numberGuessing.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\numberGuessing\numberGuessing\numberGuessing\obj\Debug\numberGuessing.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\numberGuessing\numberGuessing\numberGuessing\obj\Debug\numberGuessing.pdb
