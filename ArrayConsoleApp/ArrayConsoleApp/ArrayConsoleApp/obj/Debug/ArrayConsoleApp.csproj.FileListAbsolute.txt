@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayConsoleApp\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayConsoleApp\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayConsoleApp\ArrayConsoleApp\ArrayConsoleApp\bin\Debug\ArrayConsoleApp.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayConsoleApp\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayConsoleApp\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayConsoleApp\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ArrayConsoleApp\ArrayConsoleApp\ArrayConsoleApp\obj\Debug\ArrayConsoleApp.pdb
