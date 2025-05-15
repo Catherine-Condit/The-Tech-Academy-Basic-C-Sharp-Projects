@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\functionalStrings\\functionalStrings\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A6C3EDB0-54BB-4E89-83CC-A0CAE3877EF2}|functionalStrings\\functionalStrings.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\functionalstrings\\functionalstrings\\functionalstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A6C3EDB0-54BB-4E89-83CC-A0CAE3877EF2}|functionalStrings\\functionalStrings.csproj|solutionrelative:functionalstrings\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\functionalStrings\\functionalStrings\\functionalStrings\\Program.cs",
+              "RelativeDocumentMoniker": "functionalStrings\\Program.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\functionalStrings\\functionalStrings\\functionalStrings\\Program.cs",
+              "RelativeToolTip": "functionalStrings\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T14:22:10.963Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

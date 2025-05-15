@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\functionalStrings\functionalStrings\functionalStrings\bin\Debug\functionalStrings.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\functionalStrings\functionalStrings\functionalStrings\bin\Debug\functionalStrings.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\functionalStrings\functionalStrings\functionalStrings\bin\Debug\functionalStrings.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\functionalStrings\functionalStrings\functionalStrings\obj\Debug\functionalStrings.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\functionalStrings\functionalStrings\functionalStrings\obj\Debug\functionalStrings.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\functionalStrings\functionalStrings\functionalStrings\obj\Debug\functionalStrings.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\functionalStrings\functionalStrings\functionalStrings\obj\Debug\functionalStrings.pdb
