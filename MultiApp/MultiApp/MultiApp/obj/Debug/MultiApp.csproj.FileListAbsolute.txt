@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultiApp\MultiApp\MultiApp\bin\Debug\MultiApp.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultiApp\MultiApp\MultiApp\bin\Debug\MultiApp.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultiApp\MultiApp\MultiApp\bin\Debug\MultiApp.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultiApp\MultiApp\MultiApp\obj\Debug\MultiApp.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultiApp\MultiApp\MultiApp\obj\Debug\MultiApp.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultiApp\MultiApp\MultiApp\obj\Debug\MultiApp.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MultiApp\MultiApp\MultiApp\obj\Debug\MultiApp.pdb

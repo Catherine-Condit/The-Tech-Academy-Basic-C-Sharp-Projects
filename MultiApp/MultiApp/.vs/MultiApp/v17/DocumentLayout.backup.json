@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MultiApp\\MultiApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E49EA402-1A84-4864-BB31-2D0348EFD20D}|MultiApp\\MultiApp.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\multiapp\\multiapp\\multiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E49EA402-1A84-4864-BB31-2D0348EFD20D}|MultiApp\\MultiApp.csproj|solutionrelative:multiapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MultiApp\\MultiApp\\MultiApp\\Program.cs",
+              "RelativeDocumentMoniker": "MultiApp\\Program.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MultiApp\\MultiApp\\MultiApp\\Program.cs",
+              "RelativeToolTip": "MultiApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T22:56:04.397Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
