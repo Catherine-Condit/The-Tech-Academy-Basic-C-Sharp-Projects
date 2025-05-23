@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods\CallingMethods\CallingMethods\bin\Debug\CallingMethods.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods\CallingMethods\CallingMethods\bin\Debug\CallingMethods.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods\CallingMethods\CallingMethods\obj\Debug\CallingMethods.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods\CallingMethods\CallingMethods\obj\Debug\CallingMethods.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\CallingMethods\CallingMethods\CallingMethods\obj\Debug\CallingMethods.pdb
