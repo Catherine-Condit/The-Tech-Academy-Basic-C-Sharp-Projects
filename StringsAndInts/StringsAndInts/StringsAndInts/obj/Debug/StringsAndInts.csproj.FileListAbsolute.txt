@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndInts\StringsAndInts\StringsAndInts\bin\Debug\StringsAndInts.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndInts\StringsAndInts\StringsAndInts\bin\Debug\StringsAndInts.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndInts\StringsAndInts\StringsAndInts\bin\Debug\StringsAndInts.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndInts\StringsAndInts\StringsAndInts\obj\Debug\StringsAndInts.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndInts\StringsAndInts\StringsAndInts\obj\Debug\StringsAndInts.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndInts\StringsAndInts\StringsAndInts\obj\Debug\StringsAndInts.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StringsAndInts\StringsAndInts\StringsAndInts\obj\Debug\StringsAndInts.pdb
