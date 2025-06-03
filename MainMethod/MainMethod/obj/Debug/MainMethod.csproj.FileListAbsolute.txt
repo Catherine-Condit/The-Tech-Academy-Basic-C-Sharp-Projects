@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\MainMethod.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\MainMethod.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethod\MainMethod\bin\Debug\MainMethod.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\MainMethod.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\MainMethod.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\MainMethod\MainMethod\obj\Debug\MainMethod.pdb
