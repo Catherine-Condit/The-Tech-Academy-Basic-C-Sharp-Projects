@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{02BFEE44-2BCF-4F5B-A01C-52F2F784A5BD}|MethodsAndObjects\\MethodsAndObjects.csproj|solutionrelative:methodsandobjects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02BFEE44-2BCF-4F5B-A01C-52F2F784A5BD}|MethodsAndObjects\\MethodsAndObjects.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\methodsandobjects\\methodsandobjects\\methodsandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02BFEE44-2BCF-4F5B-A01C-52F2F784A5BD}|MethodsAndObjects\\MethodsAndObjects.csproj|solutionrelative:methodsandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02BFEE44-2BCF-4F5B-A01C-52F2F784A5BD}|MethodsAndObjects\\MethodsAndObjects.csproj|C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\methodsandobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BFEE44-2BCF-4F5B-A01C-52F2F784A5BD}|MethodsAndObjects\\MethodsAndObjects.csproj|solutionrelative:methodsandobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{02BFEE44-2BCF-4F5B-A01C-52F2F784A5BD}|MethodsAndObjects\\MethodsAndObjects.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\methodsandobjects\\methodsandobjects\\methodsandobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{02BFEE44-2BCF-4F5B-A01C-52F2F784A5BD}|MethodsAndObjects\\MethodsAndObjects.csproj|solutionrelative:methodsandobjects\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{02BFEE44-2BCF-4F5B-A01C-52F2F784A5BD}|MethodsAndObjects\\MethodsAndObjects.csproj|C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\methodsandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02BFEE44-2BCF-4F5B-A01C-52F2F784A5BD}|MethodsAndObjects\\MethodsAndObjects.csproj|solutionrelative:methodsandobjects\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\MethodsAndObjects\\Employee.cs",
               "RelativeDocumentMoniker": "MethodsAndObjects\\Employee.cs",
@@ -43,7 +43,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\MethodsAndObjects\\Person.cs",
               "RelativeDocumentMoniker": "MethodsAndObjects\\Person.cs",
@@ -62,7 +62,7 @@
               "RelativeDocumentMoniker": "MethodsAndObjects\\Program.cs",
               "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\MethodsAndObjects\\MethodsAndObjects\\MethodsAndObjects\\Program.cs",
               "RelativeToolTip": "MethodsAndObjects\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T17:45:35.104Z",
               "EditorCaption": ""

@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C734EDC-1E7F-4818-B341-A9EFED9C5D71}|AbstractClass\\AbstractClass.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\abstractclass\\abstractclass\\abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C734EDC-1E7F-4818-B341-A9EFED9C5D71}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C734EDC-1E7F-4818-B341-A9EFED9C5D71}|AbstractClass\\AbstractClass.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\abstractclass\\abstractclass\\abstractclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C734EDC-1E7F-4818-B341-A9EFED9C5D71}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C734EDC-1E7F-4818-B341-A9EFED9C5D71}|AbstractClass\\AbstractClass.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\abstractclass\\abstractclass\\abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C734EDC-1E7F-4818-B341-A9EFED9C5D71}|AbstractClass\\AbstractClass.csproj|solutionrelative:abstractclass\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass\\Program.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Program.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass\\Program.cs",
+              "RelativeToolTip": "AbstractClass\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:16:09.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass\\Employee.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Employee.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass\\Employee.cs",
+              "RelativeToolTip": "AbstractClass\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:18:23.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass\\Person.cs",
+              "RelativeDocumentMoniker": "AbstractClass\\Person.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AbstractClass\\AbstractClass\\AbstractClass\\Person.cs",
+              "RelativeToolTip": "AbstractClass\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T19:17:24.355Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
