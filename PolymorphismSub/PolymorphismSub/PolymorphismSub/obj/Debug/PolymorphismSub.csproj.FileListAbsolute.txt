@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismSub\PolymorphismSub\PolymorphismSub\bin\Debug\PolymorphismSub.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismSub\PolymorphismSub\PolymorphismSub\bin\Debug\PolymorphismSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismSub\PolymorphismSub\PolymorphismSub\bin\Debug\PolymorphismSub.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismSub\PolymorphismSub\PolymorphismSub\obj\Debug\PolymorphismSub.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismSub\PolymorphismSub\PolymorphismSub\obj\Debug\PolymorphismSub.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismSub\PolymorphismSub\PolymorphismSub\obj\Debug\PolymorphismSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\PolymorphismSub\PolymorphismSub\PolymorphismSub\obj\Debug\PolymorphismSub.pdb

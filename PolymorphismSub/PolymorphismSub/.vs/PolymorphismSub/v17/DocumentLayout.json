@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PolymorphismSub\\PolymorphismSub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8905C03F-E555-47A4-A159-1D6531FEF156}|PolymorphismSub\\PolymorphismSub.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\polymorphismsub\\polymorphismsub\\polymorphismsub\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8905C03F-E555-47A4-A159-1D6531FEF156}|PolymorphismSub\\PolymorphismSub.csproj|solutionrelative:polymorphismsub\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8905C03F-E555-47A4-A159-1D6531FEF156}|PolymorphismSub\\PolymorphismSub.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\polymorphismsub\\polymorphismsub\\polymorphismsub\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8905C03F-E555-47A4-A159-1D6531FEF156}|PolymorphismSub\\PolymorphismSub.csproj|solutionrelative:polymorphismsub\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8905C03F-E555-47A4-A159-1D6531FEF156}|PolymorphismSub\\PolymorphismSub.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\polymorphismsub\\polymorphismsub\\polymorphismsub\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8905C03F-E555-47A4-A159-1D6531FEF156}|PolymorphismSub\\PolymorphismSub.csproj|solutionrelative:polymorphismsub\\iquittable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8905C03F-E555-47A4-A159-1D6531FEF156}|PolymorphismSub\\PolymorphismSub.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\polymorphismsub\\polymorphismsub\\polymorphismsub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8905C03F-E555-47A4-A159-1D6531FEF156}|PolymorphismSub\\PolymorphismSub.csproj|solutionrelative:polymorphismsub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PolymorphismSub\\PolymorphismSub\\PolymorphismSub\\Employee.cs",
+              "RelativeDocumentMoniker": "PolymorphismSub\\Employee.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PolymorphismSub\\PolymorphismSub\\PolymorphismSub\\Employee.cs",
+              "RelativeToolTip": "PolymorphismSub\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:09:44.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PolymorphismSub\\PolymorphismSub\\PolymorphismSub\\Person.cs",
+              "RelativeDocumentMoniker": "PolymorphismSub\\Person.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PolymorphismSub\\PolymorphismSub\\PolymorphismSub\\Person.cs",
+              "RelativeToolTip": "PolymorphismSub\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:08:59.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuittable.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PolymorphismSub\\PolymorphismSub\\PolymorphismSub\\IQuittable.cs",
+              "RelativeDocumentMoniker": "PolymorphismSub\\IQuittable.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PolymorphismSub\\PolymorphismSub\\PolymorphismSub\\IQuittable.cs",
+              "RelativeToolTip": "PolymorphismSub\\IQuittable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:05:17.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PolymorphismSub\\PolymorphismSub\\PolymorphismSub\\Program.cs",
+              "RelativeDocumentMoniker": "PolymorphismSub\\Program.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\PolymorphismSub\\PolymorphismSub\\PolymorphismSub\\Program.cs",
+              "RelativeToolTip": "PolymorphismSub\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:36:19.714Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
