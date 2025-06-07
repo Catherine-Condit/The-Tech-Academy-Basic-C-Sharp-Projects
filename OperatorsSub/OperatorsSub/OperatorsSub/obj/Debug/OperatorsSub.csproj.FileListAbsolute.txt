@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSub\OperatorsSub\OperatorsSub\bin\Debug\OperatorsSub.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSub\OperatorsSub\OperatorsSub\bin\Debug\OperatorsSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSub\OperatorsSub\OperatorsSub\bin\Debug\OperatorsSub.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSub\OperatorsSub\OperatorsSub\obj\Debug\OperatorsSub.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSub\OperatorsSub\OperatorsSub\obj\Debug\OperatorsSub.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSub\OperatorsSub\OperatorsSub\obj\Debug\OperatorsSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\OperatorsSub\OperatorsSub\OperatorsSub\obj\Debug\OperatorsSub.pdb

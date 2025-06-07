@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\OperatorsSub\\OperatorsSub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3BF5F3-647D-48BA-8C12-126F8AC81F8A}|OperatorsSub\\OperatorsSub.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\operatorssub\\operatorssub\\operatorssub\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3BF5F3-647D-48BA-8C12-126F8AC81F8A}|OperatorsSub\\OperatorsSub.csproj|solutionrelative:operatorssub\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E3BF5F3-647D-48BA-8C12-126F8AC81F8A}|OperatorsSub\\OperatorsSub.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\operatorssub\\operatorssub\\operatorssub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E3BF5F3-647D-48BA-8C12-126F8AC81F8A}|OperatorsSub\\OperatorsSub.csproj|solutionrelative:operatorssub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\OperatorsSub\\OperatorsSub\\OperatorsSub\\Employee.cs",
+              "RelativeDocumentMoniker": "OperatorsSub\\Employee.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\OperatorsSub\\OperatorsSub\\OperatorsSub\\Employee.cs",
+              "RelativeToolTip": "OperatorsSub\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:42:34.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\OperatorsSub\\OperatorsSub\\OperatorsSub\\Program.cs",
+              "RelativeDocumentMoniker": "OperatorsSub\\Program.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\OperatorsSub\\OperatorsSub\\OperatorsSub\\Program.cs",
+              "RelativeToolTip": "OperatorsSub\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T14:42:13.946Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
