@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\StructAssignment\StructAssignment\StructAssignment\obj\Debug\StructAssignment.pdb
