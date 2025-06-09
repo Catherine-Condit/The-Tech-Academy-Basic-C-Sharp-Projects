@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSub\LambdaSub\LambdaSub\bin\Debug\LambdaSub.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSub\LambdaSub\LambdaSub\bin\Debug\LambdaSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSub\LambdaSub\LambdaSub\bin\Debug\LambdaSub.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSub\LambdaSub\LambdaSub\obj\Debug\LambdaSub.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSub\LambdaSub\LambdaSub\obj\Debug\LambdaSub.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSub\LambdaSub\LambdaSub\obj\Debug\LambdaSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\LambdaSub\LambdaSub\LambdaSub\obj\Debug\LambdaSub.pdb
