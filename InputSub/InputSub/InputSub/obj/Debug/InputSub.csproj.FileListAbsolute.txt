@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InputSub\InputSub\InputSub\bin\Debug\InputSub.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InputSub\InputSub\InputSub\bin\Debug\InputSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InputSub\InputSub\InputSub\bin\Debug\InputSub.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InputSub\InputSub\InputSub\obj\Debug\InputSub.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InputSub\InputSub\InputSub\obj\Debug\InputSub.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InputSub\InputSub\InputSub\obj\Debug\InputSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\InputSub\InputSub\InputSub\obj\Debug\InputSub.pdb
