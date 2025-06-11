@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSub\DateTimeSub\DateTimeSub\bin\Debug\DateTimeSub.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSub\DateTimeSub\DateTimeSub\bin\Debug\DateTimeSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSub\DateTimeSub\DateTimeSub\bin\Debug\DateTimeSub.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSub\DateTimeSub\DateTimeSub\obj\Debug\DateTimeSub.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSub\DateTimeSub\DateTimeSub\obj\Debug\DateTimeSub.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSub\DateTimeSub\DateTimeSub\obj\Debug\DateTimeSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\DateTimeSub\DateTimeSub\DateTimeSub\obj\Debug\DateTimeSub.pdb
