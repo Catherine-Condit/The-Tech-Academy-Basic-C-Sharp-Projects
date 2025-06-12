@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\TryCatch\bin\Debug\TryCatch.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\TryCatch\bin\Debug\TryCatch.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\TryCatch\bin\Debug\TryCatch.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\TryCatch\obj\Debug\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\TryCatch\obj\Debug\TryCatch.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\TryCatch\TryCatch\TryCatch\obj\Debug\TryCatch.pdb
