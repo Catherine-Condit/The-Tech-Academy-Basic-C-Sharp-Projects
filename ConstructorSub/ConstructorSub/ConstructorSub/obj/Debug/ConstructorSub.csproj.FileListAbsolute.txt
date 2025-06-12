@@ -1,0 +1,7 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSub\ConstructorSub\ConstructorSub\bin\Debug\ConstructorSub.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSub\ConstructorSub\ConstructorSub\bin\Debug\ConstructorSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSub\ConstructorSub\ConstructorSub\bin\Debug\ConstructorSub.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSub\ConstructorSub\ConstructorSub\obj\Debug\ConstructorSub.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSub\ConstructorSub\ConstructorSub\obj\Debug\ConstructorSub.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSub\ConstructorSub\ConstructorSub\obj\Debug\ConstructorSub.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\ConstructorSub\ConstructorSub\ConstructorSub\obj\Debug\ConstructorSub.pdb
