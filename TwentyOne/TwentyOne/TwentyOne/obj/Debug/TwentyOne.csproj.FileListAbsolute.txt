@@ -1,0 +1,10 @@
+C:\C#_basic_programs\TwentyOne\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.AssemblyReference.cache
+C:\C#_basic_programs\TwentyOne\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.CoreCompileInputs.cache
+C:\C#_basic_programs\TwentyOne\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe.config
+C:\C#_basic_programs\TwentyOne\TwentyOne\TwentyOne\bin\Debug\TwentyOne.exe
+C:\C#_basic_programs\TwentyOne\TwentyOne\TwentyOne\bin\Debug\TwentyOne.pdb
+C:\C#_basic_programs\TwentyOne\TwentyOne\TwentyOne\obj\Debug\TwentyOne.exe
+C:\C#_basic_programs\TwentyOne\TwentyOne\TwentyOne\obj\Debug\TwentyOne.pdb
+C:\C#_basic_programs\TwentyOne\TwentyOne\TwentyOne\bin\Debug\Casino.dll
+C:\C#_basic_programs\TwentyOne\TwentyOne\TwentyOne\bin\Debug\Casino.pdb
+C:\C#_basic_programs\TwentyOne\TwentyOne\TwentyOne\obj\Debug\TwentyOne.csproj.Up2Date
