@@ -26,6 +26,11 @@ This repository is a collection of small coding exercises and projects I made us
 - [Operators Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/OperatorsSub/OperatorsSub)
 - [Parsing Enums](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ParsingEnums/ParsingEnums)
 - [Struct Assignment](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/StructAssignment/StructAssignment)
+- [Lambda Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/LambdaSub/LambdaSub)
+- [Input Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/InputSub/InputSub)
+- [Date/Time Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/DateTimeSub/DateTimeSub)
+- [Constructor Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ConstructorSub/ConstructorSub)
+- [Try/Catch Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TryCatch/TryCatch)
 - [Car Insurance](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance)
 
 ### Car Insurance
@@ -97,9 +102,20 @@ This C# console application creates an enum called DaysOfWeek representing the d
 ### Struct Assigment
 This C# console application defines a struct called Number, which has a property Amount of type decimal. In the Main() method, an object of type Number is instantiated, and an amount is assigned to the Amount property. The value of this amount is then printed to the console.
 
+### Lambda Submission
+This C# console application creates an Employee class with Id, FirstName, and LastName properties. In the Main() method, a list of at least 10 employees is created, with at least two employees named "Joe." A foreach loop is used to create a new list containing only employees with the first name "Joe." Then, the same task is performed using a lambda expression. Additionally, another lambda expression is used to create a list of employees whose Id is greater than 5.
 
+### Input Submission
+This C# console application prompts the user to input a number, logs it to a text file, and then reads the file to display its contents back to the user. It demonstrates basic file handling operations, including writing to and reading from a text file.
 
+### Date/Time Submission
+This C# console application prints the current date and time to the console, then prompts the user to enter a number. It calculates the time that will be after the number of hours entered by the user and prints that future time to the console. This demonstrates basic date/time manipulation in C#.
 
+### Constructor Submission
+This C# console application demonstrates the use of a constant variable and the var keyword for variable declaration. It also shows how to chain two constructors together. The constant variable is assigned a fixed value, while the var keyword is used to let the compiler infer the data type. The constructor chaining allows for the initialization of objects using multiple constructors, showcasing basic object-oriented programming concepts.
 
+### Try/Catch Submission
+This C# console application asks the user for their age and calculates the year they were born. It uses a try/catch block to handle exceptions, providing custom error messages if the user enters zero or a negative number for their age. If any other exception occurs, a general error message is displayed. The program ensures that the user input is valid and provides helpful feedback.
 
-
+### Car Insurance
+This project is an MVC web app that mimics a car insurance website. It takes user's input on policy information and calculates a quote based on business logic. There is also an admin page that allows staff to view all of the quotes that have been issued.
