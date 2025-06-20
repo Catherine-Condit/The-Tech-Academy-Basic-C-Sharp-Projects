@@ -1,0 +1,13 @@
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\bin\Debug\EFCodeFirstStudentApp.exe.config
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\bin\Debug\EFCodeFirstStudentApp.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\bin\Debug\EFCodeFirstStudentApp.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\bin\Debug\EntityFramework.dll
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\bin\Debug\EntityFramework.xml
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\obj\Debug\EFCodeFirstStudentApp.csproj.AssemblyReference.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\obj\Debug\EFCodeFirstStudentApp.csproj.CoreCompileInputs.cache
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\obj\Debug\EFCodeFi.6B3CDDA7.Up2Date
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\obj\Debug\EFCodeFirstStudentApp.exe
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\obj\Debug\EFCodeFirstStudentApp.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\EFCodeFirstStudentApp\EFCodeFirstStudentApp\obj\Debug\EFCodeFirstStudentApp.exe.config
