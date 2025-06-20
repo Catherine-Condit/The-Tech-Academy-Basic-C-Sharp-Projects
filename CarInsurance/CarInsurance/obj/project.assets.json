@@ -7757,11 +7757,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\CarInsurance.csproj",
+      "projectUniqueName": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\CarInsurance.csproj",
       "projectName": "CarInsurance",
-      "projectPath": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\CarInsurance.csproj",
+      "projectPath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\CarInsurance.csproj",
       "packagesPath": "C:\\Users\\conca\\.nuget\\packages\\",
-      "outputPath": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\obj\\",
+      "outputPath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

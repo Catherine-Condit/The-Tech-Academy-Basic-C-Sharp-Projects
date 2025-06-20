@@ -1,45 +1,45 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\C#_basic_programs\\CarInsurance\\",
+  "WorkspaceRootPath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\c#_basic_programs\\carinsurance\\carinsurance\\models\\insureequoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insureequoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\c#_basic_programs\\carinsurance\\carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\carinsurance\\carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\controllers\\insureescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\c#_basic_programs\\carinsurance\\carinsurance\\views\\insurees\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\c#_basic_programs\\carinsurance\\carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\c#_basic_programs\\carinsurance\\carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\c#_basic_programs\\carinsurance\\carinsurance\\views\\insurees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\c#_basic_programs\\carinsurance\\carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\c#_basic_programs\\carinsurance\\carinsurance\\data\\insurancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\carinsurance\\carinsurance\\data\\insurancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\data\\insurancedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\c#_basic_programs\\carinsurance\\carinsurance\\views\\insurees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\carinsurance\\carinsurance\\views\\insurees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\carinsurance\\carinsurance\\models\\insureequoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insureequoteviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\carinsurance\\carinsurance\\views\\insurees\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\admin.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\carinsurance\\carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\models\\insuree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\carinsurance\\carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\carinsurance\\carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\carinsurance\\carinsurance\\views\\insurees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\c#_basic_programs\\carinsurance\\carinsurance\\views\\insurees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\carinsurance\\carinsurance\\views\\insurees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{6C2CC935-A341-4496-966B-DBD1D4A5E5E5}|CarInsurance\\CarInsurance.csproj|solutionrelative:carinsurance\\views\\insurees\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -50,7 +50,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -58,49 +58,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "InsureeQuoteViewModel.cs",
-              "DocumentMoniker": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Models\\InsureeQuoteViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Models\\InsureeQuoteViewModel.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Models\\InsureeQuoteViewModel.cs",
-              "ToolTip": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Models\\InsureeQuoteViewModel.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Models\\InsureeQuoteViewModel.cs",
               "RelativeToolTip": "CarInsurance\\Models\\InsureeQuoteViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T00:26:14.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Admin.cshtml",
-              "DocumentMoniker": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Admin.cshtml",
               "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Admin.cshtml",
-              "ToolTip": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Views\\Insurees\\Admin.cshtml",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Admin.cshtml",
               "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Admin.cshtml",
               "ViewState": "AgIAAAkAAAAAAAAAAAAowB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-20T00:24:47.57Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T00:24:47.57Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Views\\Insurees\\Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Edit.cshtml",
               "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Edit.cshtml",
-              "ToolTip": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Views\\Insurees\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Edit.cshtml",
               "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Edit.cshtml",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwEEAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAIwEAAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-19T23:24:34.765Z"
+              "WhenOpened": "2025-06-19T23:24:34.765Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Views\\Insurees\\Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Details.cshtml",
               "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Details.cshtml",
-              "ToolTip": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Views\\Insurees\\Details.cshtml",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Details.cshtml",
               "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Details.cshtml",
               "ViewState": "AgIAAD8AAAAAAAAAAAAAAAMAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -110,9 +110,9 @@
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Views\\Insurees\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Index.cshtml",
               "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Index.cshtml",
-              "ToolTip": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Views\\Insurees\\Index.cshtml",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Index.cshtml",
               "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -120,24 +120,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Insuree.cs",
-              "DocumentMoniker": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Models\\Insuree.cs",
-              "ToolTip": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Models\\Insuree.cs",
               "RelativeToolTip": "CarInsurance\\Models\\Insuree.cs",
               "ViewState": "AgIAABAAAAAAAAAAAAAiwCIAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T21:47:11.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-19T21:47:11.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Views\\Insurees\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Create.cshtml",
               "RelativeDocumentMoniker": "CarInsurance\\Views\\Insurees\\Create.cshtml",
-              "ToolTip": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Views\\Insurees\\Create.cshtml",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Views\\Insurees\\Create.cshtml",
               "RelativeToolTip": "CarInsurance\\Views\\Insurees\\Create.cshtml",
               "ViewState": "AgIAADMAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -145,36 +144,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "InsureesController.cs",
-              "DocumentMoniker": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Controllers\\InsureesController.cs",
-              "ToolTip": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Controllers\\InsureesController.cs",
               "RelativeToolTip": "CarInsurance\\Controllers\\InsureesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAANQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAIwGMAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-19T20:06:52.843Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "InsuranceDbContext.cs",
-              "DocumentMoniker": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Data\\InsuranceDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Data\\InsuranceDbContext.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Data\\InsuranceDbContext.cs",
-              "ToolTip": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Data\\InsuranceDbContext.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Data\\InsuranceDbContext.cs",
               "RelativeToolTip": "CarInsurance\\Data\\InsuranceDbContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T19:54:24.647Z"
+              "WhenOpened": "2025-06-19T19:54:24.647Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Program.cs",
               "RelativeDocumentMoniker": "CarInsurance\\Program.cs",
-              "ToolTip": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\Program.cs",
+              "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\Program.cs",
               "RelativeToolTip": "CarInsurance\\Program.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

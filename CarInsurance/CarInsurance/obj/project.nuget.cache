@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nlGUeQQ4FII=",
+  "dgSpecHash": "5oGvwNgfq7A=",
   "success": true,
-  "projectFilePath": "C:\\C#_basic_programs\\CarInsurance\\CarInsurance\\CarInsurance.csproj",
+  "projectFilePath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CarInsurance\\CarInsurance\\CarInsurance.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\conca\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\conca\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
