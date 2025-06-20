@@ -31,6 +31,7 @@ This repository is a collection of small coding exercises and projects I made us
 - [Date/Time Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/DateTimeSub/DateTimeSub)
 - [Constructor Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ConstructorSub/ConstructorSub)
 - [Try/Catch Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TryCatch/TryCatch)
+- [Twenty One Game](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/TwentyOne/TwentyOne)
 - [Car Insurance](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance)
 
 ### Car Insurance
@@ -116,6 +117,9 @@ This C# console application demonstrates the use of a constant variable and the 
 
 ### Try/Catch Submission
 This C# console application asks the user for their age and calculates the year they were born. It uses a try/catch block to handle exceptions, providing custom error messages if the user enters zero or a negative number for their age. If any other exception occurs, a general error message is displayed. The program ensures that the user input is valid and provides helpful feedback.
+
+### Twenty One Game
+TwentyOne Console Game is a C#-based simulation of the classic casino game, Blackjack. With immersive gameplay and interactive responses, this console application mimics the atmosphere of a real casino. Players can test their luck against the dealer, make strategic decisions, and experience the thrill of the game through dynamic, casino-like feedback. Designed for an engaging and realistic experience, this project brings the excitement of Blackjack right to your console screen. I created this application alongside one of the Tech Academy instructors, and learned a lot from it.
 
 ### Car Insurance
 This project is an MVC web app that mimics a car insurance website. It takes user's input on policy information and calculates a quote based on business logic. There is also an admin page that allows staff to view all of the quotes that have been issued.
