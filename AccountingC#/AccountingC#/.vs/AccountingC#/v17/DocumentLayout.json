@@ -1,12 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\conca\\OneDrive\\Desktop\\AccountingC#\\AccountingC#\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A5935C6F-6CE0-4977-A60D-BF89BF748684}|AccountingC#\\AccountingC#.csproj|c:\\users\\conca\\onedrive\\desktop\\accountingc#\\accountingc#\\accountingc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A5935C6F-6CE0-4977-A60D-BF89BF748684}|AccountingC#\\AccountingC#.csproj|solutionrelative:accountingc#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\AccountingC#\\AccountingC#\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\conca\\OneDrive\\Desktop\\AccountingC#\\AccountingC#\\AccountingC#\\Program.cs",
-              "RelativeDocumentMoniker": "AccountingC#\\Program.cs",
-              "ToolTip": "C:\\Users\\conca\\OneDrive\\Desktop\\AccountingC#\\AccountingC#\\AccountingC#\\Program.cs",
-              "RelativeToolTip": "AccountingC#\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T12:42:17.092Z",
-              "EditorCaption": ""
             }
           ]
         }

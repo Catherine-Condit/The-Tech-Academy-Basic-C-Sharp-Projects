@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethods\\CallingMethods\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E20F80D1-A1CE-4F6E-BEAE-7F2D927973C4}|CallingMethods\\CallingMethods.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\callingmethods\\callingmethods\\callingmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E20F80D1-A1CE-4F6E-BEAE-7F2D927973C4}|CallingMethods\\CallingMethods.csproj|solutionrelative:callingmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E20F80D1-A1CE-4F6E-BEAE-7F2D927973C4}|CallingMethods\\CallingMethods.csproj|C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethods\\CallingMethods\\callingmethods\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20F80D1-A1CE-4F6E-BEAE-7F2D927973C4}|CallingMethods\\CallingMethods.csproj|solutionrelative:callingmethods\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E20F80D1-A1CE-4F6E-BEAE-7F2D927973C4}|CallingMethods\\CallingMethods.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\callingmethods\\callingmethods\\callingmethods\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E20F80D1-A1CE-4F6E-BEAE-7F2D927973C4}|CallingMethods\\CallingMethods.csproj|solutionrelative:callingmethods\\mathoperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E20F80D1-A1CE-4F6E-BEAE-7F2D927973C4}|CallingMethods\\CallingMethods.csproj|c:\\users\\conca\\github\\the-tech-academy-basic-c-sharp-projects\\callingmethods\\callingmethods\\callingmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E20F80D1-A1CE-4F6E-BEAE-7F2D927973C4}|CallingMethods\\CallingMethods.csproj|solutionrelative:callingmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "MathOperations.cs",
               "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethods\\CallingMethods\\CallingMethods\\MathOperations.cs",
               "RelativeDocumentMoniker": "CallingMethods\\MathOperations.cs",
               "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethods\\CallingMethods\\CallingMethods\\MathOperations.cs",
               "RelativeToolTip": "CallingMethods\\MathOperations.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAywBYAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T20:31:51.98Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethods\\CallingMethods\\CallingMethods\\Program.cs",
               "RelativeDocumentMoniker": "CallingMethods\\Program.cs",
               "ToolTip": "C:\\Users\\conca\\GitHub\\The-Tech-Academy-Basic-C-Sharp-Projects\\CallingMethods\\CallingMethods\\CallingMethods\\Program.cs",
               "RelativeToolTip": "CallingMethods\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAQwBoAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwBoAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T20:21:59.811Z",
               "EditorCaption": ""

@@ -5,3 +5,4 @@ C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClass\Abst
 C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.csproj.CoreCompileInputs.cache
 C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe
 C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.pdb
+C:\Users\conca\GitHub\The-Tech-Academy-Basic-C-Sharp-Projects\AbstractClass\AbstractClass\AbstractClass\obj\Debug\AbstractClass.exe.config
