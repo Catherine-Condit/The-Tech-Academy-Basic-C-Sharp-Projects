@@ -1,0 +1,17 @@
+﻿@page
+@model TimeModel
+@{
+    ViewData["Title"] = "Live Server Time";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+<p>Current Time:</p>
+<p id="serverTime" style="font-weight:bold; font-size:1.5em;"></p>
+
+<script type="module">
+    import { startLiveClock } from '/js/site.js';
+
+   
+    startLiveClock('@Model.ServerTimeUtc.ToString("o")', 'serverTime');
+</script>
