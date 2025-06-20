@@ -6,13 +6,33 @@ This repository is a collection of small coding exercises and projects I made us
 ### Projects:
 - [Daily Report](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Daily%20Report/DailyReport)
 - [Addition Console App](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ConsoleApp/ConsoleApp)
+- [Anonymous Income](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/AnonymousIncome/AnonymousIncome)
+- [Boolean Logic Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/BooleanLogicSub/BooleanLogicSub)
+- [Branching Submission](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/BranchingSub/BranchingSub)
+- [Functional Strings](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/functionalStrings/functionalStrings)
+- [Array Console App](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ArrayConsoleApp/ArrayConsoleApp)
 - [Car Insurance](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance)
 
 ### Car Insurance
 This project is an MVC web app that mimics a car insurance website. It takes user's input on policy information and calculates a quote based on business logic. There is also an admin page that allows staff to view all of the quotes that have been issued.
 
 ### Daily Report
-This C# console application collects daily report submissions from students at The Tech Academy. It prompts the user for their name, course details, study hours, and feedback, storing the responses in appropriately typed variables. After collecting the data, the program displays a confirmation message. The code is well-commented for clarity and ease of maintenance.
+This C# console application collects daily report submissions from students at The Tech Academy. It prompts the user for their name, course details, study hours, and feedback, storing the responses in appropriately typed variables. After collecting the data, the program displays a confirmation message.
 
 ### Addition Console App
-This C# console application performs basic arithmetic operations based on user input. It multiplies the input by 50, adds 25, divides by 12.5, checks if the number is greater than 50, and calculates the remainder when divided by 7. The code is designed to handle large inputs and includes clear comments to explain each step for easier understanding and maintenance by other developers.
+This C# console application performs basic arithmetic operations based on user input. It multiplies the input by 50, adds 25, divides by 12.5, checks if the number is greater than 50, and calculates the remainder when divided by 7. The code is designed to handle large inputs.
+
+### Anonymous Income
+This C# console application compares the annual salaries of two individuals based on their hourly rate and hours worked. It calculates and displays each person's salary and then checks if Person 1 earns more than Person 2.
+
+### Boolean Logic Submission
+This C# console application determines car insurance eligibility based on age, DUI history, and speeding tickets. It checks if the applicant is over 15, has no DUIs, and has 3 or fewer tickets, then prints "Qualified" with a true or false result. 
+
+### Branching Submission
+This C# console application calculates a shipping quote based on package weight and dimensions. It checks if the weight is over 50 or if the dimensions total more than 50, displaying an error if either condition is met. If valid, it calculates and displays the shipping cost.
+
+### Functional Strings
+This C# console application demonstrates basic string manipulation. It concatenates three strings, converts a string to uppercase, and uses a "StringBuilder" to construct a paragraph of text one sentence at a time. 
+
+### Array Console App
+This C# console app demonstrates working with arrays and lists. It prompts the user to select an index from an array of strings and integers, displaying the corresponding value. It also handles invalid index selections and does the same for a list of strings.
