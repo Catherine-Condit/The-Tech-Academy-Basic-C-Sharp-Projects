@@ -4,8 +4,8 @@
 This repository is a collection of small coding exercises and projects I made using C# and .NET Framework. They were all completed during the C# portion of The Tech Academy’s curriculum.
 
 ### Projects:
--[Daily Report](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Daily%20Report/DailyReport)
--[Addition Console App](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ConsoleApp/ConsoleApp)
+- [Daily Report](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/Daily%20Report/DailyReport)
+- [Addition Console App](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/ConsoleApp/ConsoleApp)
 - [Car Insurance](https://github.com/Catherine-Condit/The-Tech-Academy-Basic-C-Sharp-Projects/tree/main/CarInsurance)
 
 ### Car Insurance
